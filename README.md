@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doggochills
 - 👀 I’m interested in web development and software development
-- 🌱 I’m currently learning html and basic web develpment
+- 🌱 I’m currently learning html and basic web development
 - 💞️ I’m looking to collaborate on anythin I can
 - 📫 How to reach me: gluisalonso546@gmail.com
 
